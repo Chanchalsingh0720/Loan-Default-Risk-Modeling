@@ -55,6 +55,5 @@ Financial institutions need accurate tools to assess whether a loan applicant is
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Loan-Default-Risk-Modeling.git
+git clone https://github.com/Chanchalsingh0720/Loan-Default-Risk-Modeling.git
 cd Loan-Default-Risk-Modeling
-pip install -r requirements.txt
